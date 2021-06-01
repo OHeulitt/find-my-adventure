@@ -39,6 +39,11 @@ h3 {
 
 /* form and results stylings */
 
+select,
+button {
+    cursor: pointer;
+}
+
 #stateSelect,
 #activitySelect,
 .submitButton {
